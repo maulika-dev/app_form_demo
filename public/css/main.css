@@ -1,0 +1,32 @@
+.body-main {
+      background: #ffffff;
+      border-bottom: 5px solid #1e346a;
+      border-top: 5px solid #1e346a;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      padding: 40px 30px !important;
+      position: relative;
+      box-shadow: 0 1px 21px #808080;
+      font-size: 15px
+}
+.main thead {
+      background: #1E1F23;
+      color: #fff
+}
+.img {
+      height: 100px
+}
+h1 {
+      text-align: center
+}
+.f15{
+      font-size: 15px;
+}
+.orange{
+      color: #fd7e14;
+}
+
+.card-h6-title{
+      background-color: #1e346a; 
+      color: #E0EEEE;"
+}
